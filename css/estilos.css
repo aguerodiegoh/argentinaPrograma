@@ -1,0 +1,65 @@
+* {
+    color: blue;
+}
+
+p, span{
+    color : red;
+    width: 300 px;            
+}
+h1{
+    font-family:'Roboto', sans-serif;
+    text-align: center;
+    text-shadow: 15px;
+    border: 5px solid black;
+    padding: 30px 15px 15px 20px;
+    /* padding-top: 20px;
+    padding-bottom: 15px;
+    padding-left: 15px;
+    padding-right: 20px; */
+    /* margin: 30px; */
+    margin-top: 40px;
+    margin-bottom: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-weight: 900; 
+    color: rgb(225, 121, 23);
+    background-color: rgb(154, 225, 201);
+
+}
+/*
+Esto es un comentario dentro de un documento CSS 
+ */
+h3{
+    border: 2px solid purple;
+    display: inline-block;
+}
+
+section {
+    width: 300px;
+    border: 15px solid green;
+    padding: 50px;
+    margin: 20px;
+    background: rgb(62, 60, 60);
+  }
+#parrafo_principal_001{
+    font-family: 'Barlow Condensed', sans-serif;
+    color: yellow;
+    font: size 23px;
+    border: 2px solid salmon;
+    display: inline;
+}
+
+.estaesunaclase{
+    font-weight: bold;
+    color: lightblue;
+}
+
+#parrafo_de_cabecera{
+    font-family: 'Barlow Condensed', sans-serif;
+    color: blanchedalmond;
+    font-size: 20px;
+    text-align: justify;
+}
+/* section h1{
+    font-size: 50px;
+} */
